@@ -1,3 +1,6 @@
 1. Endre versjonsnr i package.json 2 stk + evt package.json.lock
 2. npm run build:lib
-3. npm publish dist\ngx-ui-loader\
+3. npm publish dist\ngx-ui-loader-nh\
+
+for å installere
+npm install ngx-ui-loader-nh --registry  https://pkgs.dev.azure.com/norgeshushk/_packaging/npmpakker/npm/registry/
