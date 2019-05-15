@@ -9,7 +9,7 @@
     "test": "ng test ngx-ui-loader --code-coverage",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prepare": "npm run build"
+    "postinstall": "npm run build"
   },
   "private": true,
   "dependencies": {
