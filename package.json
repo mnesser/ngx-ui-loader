@@ -1,11 +1,11 @@
 {
-  "name": "ngx-ui-loader-nh",
+  "name": "ngx-ui-loader",
   "version": "7.2.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build ngx-ui-loader",
-    "build:lib": "ng build ngx-ui-loader && cp README.md CHANGELOG.md LICENSE ./dist/ngx-ui-loader-nh/",
+    "build:lib": "ng build ngx-ui-loader && cp README.md CHANGELOG.md LICENSE ./dist/ngx-ui-loader/",
     "test": "ng test ngx-ui-loader --code-coverage",
     "lint": "ng lint",
     "e2e": "ng e2e",
