@@ -5,7 +5,7 @@ import { NavigationCancel, NavigationEnd, NavigationError, NavigationStart, Rout
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { __assign } from 'tslib';
 import { filter, finalize } from 'rxjs/operators';
-import { InjectionToken, Inject, Injectable, Optional, Directive, ElementRef, Input, Renderer2, Component, ChangeDetectionStrategy, ChangeDetectorRef, NgModule, SkipSelf, defineInjectable, inject } from '@angular/core';
+import { InjectionToken, Inject, Injectable, Optional, Directive, ElementRef, Input, Renderer2, NgModule, SkipSelf, Component, ChangeDetectionStrategy, ChangeDetectorRef, defineInjectable, inject } from '@angular/core';
 
 /**
  * @fileoverview added by tsickle

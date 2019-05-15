@@ -4,7 +4,7 @@ import { DomSanitizer } from '@angular/platform-browser';
 import { NavigationCancel, NavigationEnd, NavigationError, NavigationStart, Router } from '@angular/router';
 import { HTTP_INTERCEPTORS } from '@angular/common/http';
 import { filter, finalize } from 'rxjs/operators';
-import { InjectionToken, Inject, Injectable, Optional, Directive, ElementRef, Input, Renderer2, Component, ChangeDetectionStrategy, ChangeDetectorRef, NgModule, SkipSelf, defineInjectable, inject } from '@angular/core';
+import { InjectionToken, Inject, Injectable, Optional, Directive, ElementRef, Input, Renderer2, NgModule, SkipSelf, Component, ChangeDetectionStrategy, ChangeDetectorRef, defineInjectable, inject } from '@angular/core';
 
 /**
  * @fileoverview added by tsickle
